@@ -1,6 +1,7 @@
 .button{
     display: inline-block;
     background-color: #ce3a4e;
+    transition: background-color .8s;
     text-decoration: none;
     font-size: 20px;
     color: #FFF;
@@ -15,5 +16,5 @@
 }
 .button:hover{
     background-color: #000;
-    transition: background-color .8s;
+    
 }
