@@ -1,0 +1,21 @@
+.skill-main {
+
+    display: flex;
+    font-family: 'Press Start 2P' , cursive;
+    color: #FFF; 
+    font-size: 25px;
+}    
+
+.skill-main .icon{
+
+    margin-right: 25px;
+    
+}
+.skill-main .rigth{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+
+}
