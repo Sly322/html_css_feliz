@@ -14,11 +14,13 @@
     text-shadow: none;
    
 }
-.main-title.-third{
-
-    text-align: center; 
+.main-title-third{
+    
+    text-align: center;
     font-family: 'Press Start 2P' , cursive;
     color:#FFF;
     font-size: 40px;
+    padding-bottom: 50px;
+    
     
 }

@@ -1,0 +1,10 @@
+.wrapper-project .project{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.wrapper-project .project .icon-blue{
+    background-color: rgb(187, 0, 0)
+}
