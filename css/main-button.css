@@ -1,4 +1,4 @@
-.button{
+.main-button{
     display: inline-block;
     background-color: #ce3a4e;
     transition: background-color .8s;
@@ -18,7 +18,7 @@
 }
 
 
-.button:hover{
+.main-button:hover{
     background-color: #000;
     
 }
