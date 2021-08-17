@@ -11,9 +11,13 @@
     padding-right: 18px;
     box-shadow: 5px 5px 0 #000
     
-    
-
 }
+
+.banner .main-box{
+    margin-bottom: 40px;
+}
+
+
 .button:hover{
     background-color: #000;
     
